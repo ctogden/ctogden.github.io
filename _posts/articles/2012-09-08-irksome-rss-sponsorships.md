@@ -3,7 +3,7 @@ layout: post
 title: Irksome RSS Sponsorships
 ---
 
-Earlier today, I tweeted:
+Earlier today, I tweeted.
 
 <blockquote class="twitter-tweet"><p>If you're going to include RSS feed sponsorships once a week, you should be blogging at least that often.</p>&mdash; Christopher Ogden (@c_t_ogden) <a href="https://twitter.com/c_t_ogden/status/244444019357282305" data-datetime="2012-09-08T14:36:10+00:00">September 8, 2012</a></blockquote>
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -9,28 +9,27 @@ title: A great miscellany
  
 >"The beauty of the Internet is that it connects people. The value is in the other people. If we start to believe that the Internet itself is an entity that has something to say, we're devaluing those people and making ourselves into idiots."
 >
->—Jaron Lanier
+> -Jaron Lanier
  
 2) A collection of vignettes about the current state of the digital world (in the eyes of Jonathan Harris), and some thoughts about what that world's future could be: [World Building in a Crazy World](http://www.number27.org/worldbuilding.html)
  
-3) A letter from _why, advocating risk-taking:
+3) A letter from why, advocating risk-taking:
  
->" I do not write tests for my code. I do not write very many comments. I change styles very frequently. And most of all, I shun the predominant styles of coding, because that would go against the very essence of experimentation. In short: all I do is muck around.
+> "I do not write tests for my code. I do not write very many comments. I change styles very frequently. And most of all, I shun the predominant styles of coding, because that would go against the very essence of experimentation. In short: all I do is muck around.
  
->So, my way of measuring a great programmer is different from some prevailing thought on the subject. I would like to hear what Matz would say about this. You should ask him, seriously.
+> So, my way of measuring a great programmer is different from some prevailing thought on the subject. I would like to hear what Matz would say about this. You should ask him, seriously.
  
->I admire programmers who take risks. They aren’t afraid to write dangerous or “crappy” code. If you worry too much about being clean and tidy, you can’t push the boundaries (I don’t think!). I also admire programmers who refuse to stick with one idea about the “way the world is.” These programmers ignore protocol and procedure. I really like Autrijus Tang because he embraces all languages and all procedures. There is no wrong way in his world.
+> I admire programmers who take risks. They aren’t afraid to write dangerous or 'crappy' code. If you worry too much about being clean and tidy, you can't push the boundaries (I don't think!). I also admire programmers who refuse to stick with one idea about the “way the world is. I really like Autrijus Tang because he embraces all languages and all procedures. There is no wrong way in his world.
  
->Anyway, you say you want to become better. I mean that’s really all you need. You feel driven, so stick with it. I would also start writing short scripts to share with people on the Web. Little Ruby scripts or Rails programs or MouseHole scripts to show off. Twenty lines here and there, and soon people will be beating you up and you’ll be scrambling to build on those scripts and figure out your style and newer innovations and so on."
+> Anyway, you say you want to become better. I mean that’s really all you need. You feel driven, so stick with it. I would also start writing short scripts to share with people on the Web. Little Ruby scripts or Rails programs or MouseHole scripts to show off. Twenty lines here and there, and soon people will be beating you up and you’ll be scrambling to build on those scripts and figure out your style and newer innovations and so on."
  
->— Why the Lucky Stiff
+> -Why the Lucky Stiff
  
-4) More from _why:
+4) More:
+
+> "When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow and exclude people. So create."
  
- 
->"When you don’t create things, you become defined by your tastes rather than ability. Your tastes only narrow and exclude people. So create."
- 
->— Why the Lucky Stiff
+> -Why the Lucky Stiff
  
 5) "Delinkification"
  
