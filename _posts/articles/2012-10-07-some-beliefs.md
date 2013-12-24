@@ -16,7 +16,7 @@ title: Some things I believe in
 
 [^1]: "God is Love." 1 John 4:8
 
-  I like this line I found [here](http://www.winternet.com/~swezeyt/bible/cmin/cminMain.htm): "Everything else; doctrine, theology, tradition, ritual, must be secondary."
+I like this line I found [here](http://www.winternet.com/~swezeyt/bible/cmin/cminMain.htm): "Everything else; doctrine, theology, tradition, ritual, must be secondary."
 
 [^2]: Refer to Robin Sloan's [Bless the Toolmakers](http://snarkmarket.com/2011/7320) 
 
