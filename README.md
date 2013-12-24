@@ -1,1 +1,1 @@
-I ported my blog from Scriptogr.am to Jekyll here on GitHub pages but GitHub Pages does not play nicely with some of my posts.  Until I figure out how to fix this, you can still read posts here: http://scriptogr.am/ctogden.  Once I get that sorted out, I'll probably map my personal domain to ctogden.github.io.  Or not -- always thinking about the best way to do this.
+This repository contains the personal site of [Christopher T. Ogden](http://ctogden.com).  It remains a work in progress, pardon my dust.
