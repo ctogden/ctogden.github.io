@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Resolutions for 2012
+tags:
+- resolutions
 ---
 
 I resolve, for this year of 2012, to:

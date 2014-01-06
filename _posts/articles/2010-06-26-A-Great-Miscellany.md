@@ -1,6 +1,10 @@
 ---
 layout: post
 title: A great miscellany
+tags:
+- the internet
+- design
+- _why
 ---
 
 *This post was originally a Facebook note, long enough ago that I still wrote Facebook as facebook (inspired/confused by the logo).  I've removed some things, such as broken links, and made some slight edits.  But as I'm reposting this mainly for reminiscence and posterity, most of it remains unchanged.*

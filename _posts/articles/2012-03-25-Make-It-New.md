@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Make It New
+tags:
+- syllabus
+- design
 ---
 
 Happened across *[Erasure](http://believermag.tumblr.com/post/16114582853/michellelegro-the-syllabus-for-jeannies)*, a post over at *The Believer Logger*, a new tumblr for *The Believer*. (Though, wait, I think the post was originally from [Austin Kleon’s blog](http://tumblr.austinkleon.com/post/16093144201).) I couldn’t read it. The formatting was as messy and daunting as a briar patch. But I know how to click upon a link.

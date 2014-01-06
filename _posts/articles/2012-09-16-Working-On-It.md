@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Working on It
+tags: 
+- resolutions
 ---
 
 I'm half way through my degree, and despite my good grades I feel as if I've learned next to nothing.  I'm 20 (nearly 21) years old, and I'm not sure I know how to jumpstart a car or how to make sure I stay on the good side of the IRS.

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Practice Resurrection
+tags:
+- James Bond
+- film reviews
 ---
 
 I finally got around to watching Skyfall[^1] last weekend.  In one scene, Bond is asked about his hobbies.  "Resurrection" is his reply.[^2]  It reminded me of a catchphrase I devised in the past: "Practice resurrection".  It was catchy, but not knowing what it meant made it rather hard to use.  Now I've got a better idea.  It goes hand in hand with the goal of making mistakes. 

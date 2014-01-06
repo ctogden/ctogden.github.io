@@ -2,6 +2,8 @@
 layout: post
 title: Resolutions
 Date: 2012-09-03 04:57 
+tags:
+- resolutions
 ---
 
 Today I revisited my New Year's Resolutions for 2012.  I was going to review them publicly here, but I think I'd rather simply state that progress was made for most items and while my follow through wasn't as good as hoped for, I am proud of what I have achieved.  That said (and yes, I realize the year isn't over yet), I'd like to set some new goals.  These will hopefully be more precise, measurable, and actionable.  

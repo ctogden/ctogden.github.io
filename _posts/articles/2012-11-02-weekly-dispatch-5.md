@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Weekly Dispatch, Week 5
+tags:
+- journal
 ---
 
 I missed another week (maybe I should call these bi-weekly dispatches from now on).  I blame the <span title="Hurricane Sandy">hurricane</span>.

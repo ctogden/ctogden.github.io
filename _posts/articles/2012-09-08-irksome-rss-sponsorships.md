@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Irksome RSS Sponsorships
+tags:
+- RSS
+- advertising
 ---
 
 Earlier today, I tweeted.

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Weekly Dispatch, Week 3
+tags:
+- journal
 ---
 
 I missed a week.  Oops.  Since I send a weekly email to my sister summarizing the week, I still have a record of what I've been up to.  But I'm not going to bother recapping it here.  I'll stick with what's fresh in my mind.

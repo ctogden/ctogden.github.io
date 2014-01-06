@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Strange Names
+tags:
+- photo
+- family
 ---
 
 ![Elisabeth scrapbooking](https://dl.dropboxusercontent.com/u/1390605/scriptogramimages/elisabeth.jpg)

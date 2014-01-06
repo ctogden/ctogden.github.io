@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Journal for the 18th of August
+tags: 
+- journal
 ---
 
 

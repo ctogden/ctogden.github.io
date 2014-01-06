@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Bear Spring
+tags:
+- Walton
+- photo
 ---
 
 ![Bear Spring Mountain Overlook](https://dl.dropboxusercontent.com/u/1390605/scriptogramimages/bearspring.jpg)

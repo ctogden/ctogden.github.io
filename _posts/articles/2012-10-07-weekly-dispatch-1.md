@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Weekly Dispatch, Week 1
+tags:
+- journal
 ---
 
 I had intended to start these weekly dispatches after writing [Working on It](http://ctogden.com/post/working-on-it), but I came down with a cold that lasted two weeks and I was also very busy with assignments and exams.  So here's some catch up, if I can remember anything.  (Also, I had intended this to be a progress report, but you'll have to excuse my lack of progress for now.)

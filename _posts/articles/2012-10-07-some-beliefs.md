@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Some things I believe in
+tags:
+- beliefs
 ---
 
 * Christian Minimalism[^1]
