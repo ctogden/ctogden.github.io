@@ -5,8 +5,6 @@ title: About
 
 Hello!  You’ve reached the personal site of Christopher Ogden.  I’m a student in the Honors College at Stony Brook University and I’m about to finish an undergraduate degree in computer science.  I chose to major in CS so that I could bring ideas to fruition through code. I see myself as a generalist and lament the split of western intellectual endeavors into “the two cultures” of science and the humanities.
 
-This site is a work in progress, but my goal is to write about a variety of topics. Rather than a constant chronological stream, I hope to organize a quality archive of categorized collections.  However, for the time being, you can see a list of [all posts](/archives).
-
 Here are some topics I’d like to explore (on this blog and elsewhere):
 
 *   **Design** - responsive web design, architecture, the role of design in the modern world, and “What is design?”
