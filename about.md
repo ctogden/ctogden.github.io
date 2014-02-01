@@ -14,7 +14,8 @@ Here are some topics I’d like to explore (on this blog and elsewhere):
 *   **Journalism** - investigative journalism, slow big picture “stories”, sensor journalism, and citizen journalism
 *   **Participatory government** - Brickstarter, civic hacking, and open data
 *   **Publishing** - small presses, art books, content management systems, and collaborative writing systems (e.g. Editorially)
-*   **Education/learning** - better textbooks (and other resources), education reform, MOOCs, apprenticeships, and DIY.org*   **Electronics** - I got an Arduino for Christmas
+*   **Education/learning** - better textbooks (and other resources), education reform, MOOCs, apprenticeships, and DIY.org
+*   **Electronics** - I got an Arduino for Christmas
 *   **Reading** - I read a lot, but not enough; I’m trying to read more books and longform
 *   **Farmsteading** - aquaponics, cash crops, organic farming, orchards, small animals, and beekeeping
 
