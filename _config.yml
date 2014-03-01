@@ -12,8 +12,8 @@ links:
   - name:         Email
     url:          mailto:ogdenchris@gmail.com
     external:     true
-  - name:         GitHub
-    url:          http://github.com/ctogden
+  - name:         Projects
+    url:          /projects
     external:     true
 pygments:         true
 permalink:        pretty
