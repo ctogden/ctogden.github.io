@@ -14,6 +14,5 @@ links:
     external:     true
   - name:         Projects
     url:          /projects
-    external:     true
 pygments:         true
 permalink:        pretty
