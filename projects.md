@@ -16,13 +16,15 @@ I’ve attended half a dozen student hackathons in the past year or so.  They’
 4. *HackMIT*, Fall 2013 - We built a Chrome extension for simple visual web scraping. It only operates based on HTML classes, but we’ve found uses for it sense, including our hack at McGill University
 5. Google’s *24 Hours of Good*, Spring 2014 - We built a digital variant of the party game Mafia to educate players about web security. 
 6. 
+
 <div class="technologies">
     <span class="tag-label">Python</span>        
     <span class="tag-label">Flask</span>        
     <span class="tag-label">Facebook Graph API</span>        
     <span class="tag-label">Google Prediction API</span>              
 </div>
-"*McHacks*, Spring 2014 - We built a silly Facebook app that’s actually pretty cool under the hood. [What’s my FB sin?](http://whats-my-fb-sin.com/) takes your latest statuses and feeds them to a machine learning model in the Google Prediction API and returns a result that tells you your worst Facebook habit. We’ve more rules, results, fixes, and other updates planned.
+
+    "*McHacks*, Spring 2014 - We built a silly Facebook app that’s actually pretty cool under the hood. [What’s my FB sin?](http://whats-my-fb-sin.com/) takes your latest statuses and feeds them to a machine learning model in the Google Prediction API and returns a result that tells you your worst Facebook habit. We’ve more rules, results, fixes, and other updates planned.
 
 The Stony Brook Computing Society
 ---------------------------------

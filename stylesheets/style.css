@@ -365,6 +365,8 @@ img {
     display: inline;
     border: 1px solid #b8d5f4;
     background-color: #e4effb;
+    padding: 0 4px 0 4px;
     text-transform: uppercase;
+    white-space: nowrap;
     border-radius: .25em;
 }
