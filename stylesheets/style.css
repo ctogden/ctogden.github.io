@@ -360,3 +360,11 @@ img {
   margin-left: -340px; }
 .paging .right {
   margin-left: 320px; }
+
+.tag-label {
+    display: inline;
+    border: 1px solid #b8d5f4;
+    background-color: #e4effb;
+    text-transform: uppercase;
+    border-radius: .25em;
+}
