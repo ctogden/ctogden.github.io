@@ -3,7 +3,9 @@ layout: page
 title: Projects
 ---
 
-Here are some projects I’ve been involved with.  Some are finished or abandoned, others are works in progress or even still in the planning stage.  Many are collaborative efforts.
+Here are some projects I’ve been involved with.  Some are finished or abandoned, others are works in progress or even still in the planning stage.  Many are collaborative efforts. 
+
+Hiring? You can also check out my [resume]({{ site.url }}/assets/resume.pdf). I'm currently looking for a full time software development position.
 
 Hackathons
 ----------
@@ -61,11 +63,22 @@ I discovered the SBCS at the end of my freshman year, back when it only had abou
 Senior Thesis Project - Prolog Cloud
 ------------------------------------
 
+<div class="technologies">
+    <span class="tag-label">Python</span>        
+    <span class="tag-label">Flask</span>  
+    <span class="tag-label">Java</span>      
+    <span class="tag-label">Interprolog</span>            
+</div>
 My senior thesis for the Honors College at Stony Brook University is an web-based IDE for XSB Prolog. My advisor is Professor Paul Fodor of the CS department.
+
+The Walhighlingo
+----------------
+
+I founded a student newspaper during my junior year of high school and was editor-in-chief for the next two years. Despite troubles overcoming student apathy, it was a blast and I'd like to be part of a similar endeavor some day, whether that be a thematic group blog or a hyperlocal newspaper.
 
 Other
 -----
 
-I’ll update this list soon with some more projects, including coursework, websites and apps I’m working on, and some non programming projects.
+I’ll update this list soon with some more projects, including coursework, websites and apps I’m working on, and some other non-programming projects.
 
 
