@@ -16,3 +16,4 @@ links:
     url:          /projects
 pygments:         true
 permalink:        pretty
+markdown: 	      kramdown
