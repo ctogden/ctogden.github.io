@@ -3,7 +3,7 @@ layout: post
 title: Substratum Series
 ---
 
-![Substratum Categories](https://dl.dropboxusercontent.com/u/1390605/scriptogramimages/substratum.jpg)
+![Substratum Categories]({{ site.url }}assets/images/substratum.png)
 
 [The Great Discontent](http://thegreatdiscontent.com/) seems to be getting all the attention these days, at least as far as interviews of creatives are concerned (though I could easily be mistaken, thrown off by my personal reading and browsing habits).  And this attention is well deserved; Ryan and Tina Essmaker of [Designing Monsters](http://designingmonsters.com/) have done a great job with the site’s design, as well as posting great interviews.
 

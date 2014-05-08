@@ -5,7 +5,7 @@ title: Projects
 
 Here are some projects I’ve been involved with.  Some are finished or abandoned, others are works in progress or even still in the planning stage.  Many are collaborative efforts. 
 
-Hiring? You can also check out my [resume]({{ site.url }}/assets/resume.pdf). I'm currently looking for a full time software development position.
+Hiring? You can also check out my [resume]({{ site.url }}assets/resume.pdf). I'm currently looking for a full time software development position.
 
 Hackathons
 ----------

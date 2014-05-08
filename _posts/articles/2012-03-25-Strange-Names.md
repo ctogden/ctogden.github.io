@@ -6,7 +6,7 @@ tags:
 - family
 ---
 
-![Elisabeth scrapbooking](https://dl.dropboxusercontent.com/u/1390605/scriptogramimages/elisabeth.jpg)
+![Elisabeth scrapbooking]({{ site.url }}assets/images/Beth.jpg)
 
 This is my sister Elisabeth.  That’s with an ‘s’.  She enjoys that her name is somewhat different (and also gets annoyed when it is misspelled as a result).  
 

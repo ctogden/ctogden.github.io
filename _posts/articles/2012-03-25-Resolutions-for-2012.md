@@ -25,6 +25,3 @@ I resolve, for this year of 2012, to:
   * Enjoy nature
   * Work outdoors
 
-![Step Away Poster](https://dl.dropboxusercontent.com/u/1390605/scriptogramimages/stepaway.png)
-
-(The image above is [Riley Cran’s submission](http://toresolveproject.com/Riley-Cran) to the [To Resolve Project](http://toresolveproject.com/index))
