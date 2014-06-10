@@ -68,6 +68,7 @@ Senior Thesis Project - Prolog Cloud
     <span class="tag-label">Flask</span>  
     <span class="tag-label">Java</span>      
     <span class="tag-label">Interprolog</span>            
+    <span class="tag-label">Vagrant</span>            
 </div>
 My senior thesis for the Honors College at Stony Brook University is an web-based IDE for XSB Prolog. My advisor is Professor Paul Fodor of the CS department.
 
