@@ -376,3 +376,7 @@ img {
 p.within-list {
     margin-top: 6px;
 }
+
+div.twitter-tweet {
+    margin: 0 auto;
+}
