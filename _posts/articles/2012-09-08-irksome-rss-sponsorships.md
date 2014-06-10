@@ -8,7 +8,7 @@ tags:
 
 Earlier today, I tweeted.
 
-<blockquote class="twitter-tweet"><p>If you're going to include RSS feed sponsorships once a week, you should be blogging at least that often.</p>&mdash; Christopher Ogden (@c_t_ogden) <a href="https://twitter.com/c_t_ogden/status/244444019357282305" data-datetime="2012-09-08T14:36:10+00:00">September 8, 2012</a></blockquote>
+<blockquote class="twitter-tweet" align="center"><p>If you're going to include RSS feed sponsorships once a week, you should be blogging at least that often.</p>&mdash; Christopher Ogden (@c_t_ogden) <a href="https://twitter.com/c_t_ogden/status/244444019357282305" data-datetime="2012-09-08T14:36:10+00:00">September 8, 2012</a></blockquote>
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 A number of my favorite blogs are now including advertisements amidst their other RSS items through services such as [The Syndicate](http://syndicateads.net/).  I generally don't have a problem with this.  If I'm not supporting their writing through a subscription I think it's fine for them to earn money from serving ads.  But when the last four or five items in my Google Reader are advertisements, I do get annoyed.  
