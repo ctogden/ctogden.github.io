@@ -76,9 +76,12 @@ The Walhighlingo
 
 I founded a student newspaper during my junior year of high school and was editor-in-chief for the next two years. Despite troubles overcoming student apathy, it was a blast and I'd like to be part of a similar endeavor some day, whether that be a thematic group blog or a hyperlocal newspaper.
 
-Other
------
+AlgebraThing
+------------
 
-I’ll update this list soon with some more projects, including coursework, websites and apps I’m working on, and some other non-programming projects.
+AlgebraThing is a scratchpad for algebraic equations. Students can use AlgebraThing to solve algebra problems and save their steps for review.
+
+AlgebraThing was a CSE 308 course project that I worked on with Hanne Paine, Scott  Macdonell, and Varsha Paidi. You can check it out at [http://algebra-thing.appspot.com/](http://algebra-thing.appspot.com/), but be forewarned that the profile pages are incomplete and that the solution histories were broken in our latest commits.
+
 
 
