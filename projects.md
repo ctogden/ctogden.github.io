@@ -79,6 +79,12 @@ I founded a student newspaper during my junior year of high school and was edito
 AlgebraThing
 ------------
 
+<div class="technologies">
+    <span class="tag-label">Java EE</span>        
+    <span class="tag-label">JavaScript</span>        
+    <span class="tag-label">Angular</span>
+    <span class="tag-label">Bootstrap</span>
+</div>
 AlgebraThing is a scratchpad for algebraic equations. Students can use AlgebraThing to solve algebra problems and save their steps for review.
 
 AlgebraThing was a CSE 308 course project that I worked on with Hanne Paine, Scott  Macdonell, and Varsha Paidi. You can check it out at [http://algebra-thing.appspot.com/](http://algebra-thing.appspot.com/), but be forewarned that the profile pages are incomplete and that the solution histories were broken in our latest commits.
