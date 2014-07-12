@@ -88,7 +88,7 @@ AlgebraThing
 </div>
 AlgebraThing is a scratchpad for algebraic equations. Students can use AlgebraThing to solve algebra problems and save their steps for review.
 
-AlgebraThing was a CSE 308 course project that I worked on with Hanne Paine, Scott  Macdonell, and Varsha Paidi. You can check it out at [http://algebra-thing.appspot.com/](http://algebra-thing.appspot.com/), but be forewarned that the profile pages are incomplete and that the solution histories were broken in our latest commits.
+AlgebraThing was a CSE 308 course project that I worked on with Hanne Paine, Scott  Macdonell, and another student. You can check it out at [http://algebra-thing.appspot.com/](http://algebra-thing.appspot.com/), but be forewarned that the profile pages are incomplete and that the solution histories were broken in our latest commits.
 
 
 
