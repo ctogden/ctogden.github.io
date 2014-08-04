@@ -1,6 +1,6 @@
 title:            Christopher T. Ogden
 description:      My personal blog
-url:              http://ctogden.com/
+url:              http://ctogden.com/archives/
 signoff:          Christopher T. Ogden
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
