@@ -3,7 +3,7 @@ layout: post
 title: Watching Time
 ---
 
-![A Page from Tim Denee's Calendar]({{ site.url }}assets/images/deneetime.gif)
+![A Page from Tim Denee's Calendar](http://ctogden.com/assets/images/deneetime.gif)
 
 A few days ago, a link to a calendar available for free download appeared here at [Quipsologies](http://www.underconsideration.com/quipsologies/archives/january_2012/arminvit_53.php).  The preview was appealing so I followed the link to the calendar’s page at the designer Tim Denee’s site.  I’ve no need for a calendar for this year I decided (I’ve already got one spare), but I keep returning to the site to watch the slideshow preview of the images that appear on the calendar.  
 

@@ -7,6 +7,8 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: UA-28419049-1
 
 links:
+  - name:         Blog
+    url:          /archives  
   - name:         About
     url:          /about
   - name:         Email

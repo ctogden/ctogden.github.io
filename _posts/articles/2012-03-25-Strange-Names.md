@@ -6,7 +6,7 @@ tags:
 - family
 ---
 
-![Elisabeth scrapbooking]({{ site.url }}assets/images/Beth.jpg)
+![Elisabeth scrapbooking](http://ctogden.com/assets/images/Beth.jpg)
 
 This is my sister Elisabeth.  That’s with an ‘s’.  She enjoys that her name is somewhat different (and also gets annoyed when it is misspelled as a result).  
 
