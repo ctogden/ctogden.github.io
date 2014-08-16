@@ -3,9 +3,42 @@ layout: page
 title: Projects
 ---
 
-Here are some projects I’ve been involved with.  Some are finished or abandoned, others are works in progress or even still in the planning stage.  Many are collaborative efforts. 
+Here are some projects I’ve been involved with.  Some are works in progress or even still in the planning stage.  A number are collaborative efforts. 
 
-Hiring? You can also check out my [resume](http://ctogden.com/assets/resume.pdf). I'm currently looking for a full time software development position.
+Hiring? You can also check out my [resume](http://ctogden.com/assets/resume.pdf). I'm currently looking for a full time software development position or an internship.
+
+AlgebraThing
+------------
+
+<div class="technologies">
+    <span class="tag-label">Java EE</span>        
+    <span class="tag-label">JavaScript</span>        
+    <span class="tag-label">Angular</span>
+    <span class="tag-label">Bootstrap</span>
+</div>
+AlgebraThing is a scratchpad for algebraic equations. Students can use AlgebraThing to solve algebra problems and save their steps for review.
+
+AlgebraThing was a CSE 308 course project that I worked on with three other students. You can check it out at [http://algebra-thing.appspot.com/](http://algebra-thing.appspot.com/), but be forewarned that the profile pages are incomplete and that the solution histories were broken by a teammate in our final push. (Another lesson learned in version control best practices, I guess.)
+
+Senior Thesis Project - Prolog Cloud
+------------------------------------
+
+<div class="technologies">
+    <span class="tag-label">Python</span>        
+    <span class="tag-label">Flask</span>  
+    <span class="tag-label">Java</span>      
+    <span class="tag-label">Interprolog</span>            
+    <span class="tag-label">Vagrant</span>            
+</div>
+My senior thesis for the Honors College at Stony Brook University was a web-based IDE for XSB Prolog. My advisor was Professor Paul Fodor.
+
+Waltonians.org
+--------------
+
+<div class="technologies">
+    <span class="tag-label">Jekyll</span>           
+</div>
+[Waltonians.org](http://waltonians.org/) is a site to celebrate community in my small hometown of Walton, NY. 
 
 Hackathons
 ----------
@@ -60,35 +93,16 @@ The Stony Brook Computing Society
 
 I discovered the SBCS at the end of my freshman year, back when it only had about 5 members. It quickly became the community of people with like interests that I had been seeking for.  I was elected Vice President my junior year and while I stepped down from an official e-board position for my senior year, I remain active in the club and its leadership. I helped grow club membership more than tenfold, and I’ve planned numerous educational, career-building, and outreach activities.  This semester we’re bigger than ever (the incredible [Hanne Paine](https://twitter.com/HannePaine) is owed the majority of the credit for this), holding weekly general body meetings and tech nights, frequent company tours, several hackathon trips, and more.  
 
-Senior Thesis Project - Prolog Cloud
-------------------------------------
-
-<div class="technologies">
-    <span class="tag-label">Python</span>        
-    <span class="tag-label">Flask</span>  
-    <span class="tag-label">Java</span>      
-    <span class="tag-label">Interprolog</span>            
-    <span class="tag-label">Vagrant</span>            
-</div>
-My senior thesis for the Honors College at Stony Brook University is an web-based IDE for XSB Prolog. My advisor is Professor Paul Fodor of the CS department.
+Currently (even though I've graduated), I'm planning [Unhackathon](http://www.unhackathon.org/), a 300 person hackathon focused on learning and inclusivity.
 
 The Walhighlingo
 ----------------
 
 I founded a student newspaper during my junior year of high school and was editor-in-chief for the next two years. Despite troubles overcoming student apathy, it was a blast and I'd like to be part of a similar endeavor some day, whether that be a thematic group blog or a hyperlocal newspaper.
 
-AlgebraThing
-------------
+Inchoate.co
+-----------
 
-<div class="technologies">
-    <span class="tag-label">Java EE</span>        
-    <span class="tag-label">JavaScript</span>        
-    <span class="tag-label">Angular</span>
-    <span class="tag-label">Bootstrap</span>
-</div>
-AlgebraThing is a scratchpad for algebraic equations. Students can use AlgebraThing to solve algebra problems and save their steps for review.
-
-AlgebraThing was a CSE 308 course project that I worked on with Hanne Paine, Scott  Macdonell, and another student. You can check it out at [http://algebra-thing.appspot.com/](http://algebra-thing.appspot.com/), but be forewarned that the profile pages are incomplete and that the solution histories were broken in our latest commits.
-
+Inspired by a [Robert Heinlein quote](http://inchoate.co/specialization-is-for-insects/) and a [post by Seth Godin](http://sethgodin.typepad.com/seths_blog/2004/12/the_top_1000_th.html) I've dedicated my blog at http://inchoate.co/ to a list of "1,000 Things to Know".
 
 
