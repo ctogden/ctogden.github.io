@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hello!  You’ve reached the personal site of Christopher Ogden.  I’m a student in the Honors College at Stony Brook University and I’m about to finish an undergraduate degree in computer science.  I chose to major in CS so that I could bring ideas to fruition through code. I see myself as a generalist and lament the split of western intellectual endeavors into “the two cultures” of science and the humanities.
+Hello!  You’ve reached the personal site of Christopher Ogden.  I’m a recent graduate of the Honors College at Stony Brook University where I obtained a  degree in computer science.  I chose to major in CS so that I could bring ideas to fruition through code. I see myself as a generalist and lament the split of western intellectual endeavors into “the two cultures” of science and the humanities.
 
 Here are some topics I’d like to explore (on this blog and elsewhere):
 
