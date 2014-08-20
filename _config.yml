@@ -19,3 +19,11 @@ links:
 pygments:         true
 permalink:        pretty
 markdown: 	      kramdown
+
+collections:
+    books:
+        output: true
+    movies:
+        output: true
+    people:
+        output: true
