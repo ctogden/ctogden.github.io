@@ -5,7 +5,7 @@ title: Projects
 
 Here are some projects I’ve been involved with.  Some are works in progress or even still in the planning stage.  A number are collaborative efforts. 
 
-Hiring? You can also check out my [resume](http://ctogden.com/assets/resume.pdf). I'm currently looking for a full time software development position or an internship.
+You can also check out my [resume](http://ctogden.com/assets/resume.pdf). I've recently started a job at OpEff though, so I'm not looking for full time work at this time. Might be interested in moonlighting or contract work though.
 
 AlgebraThing
 ------------
