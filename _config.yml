@@ -8,22 +8,11 @@ google_analytics: UA-28419049-1
 
 links:
   - name:         Blog
-    url:          /archives  
+    url:          /archives
   - name:         About
     url:          /about
-  - name:         Email
-    url:          mailto:ogdenchris@gmail.com
-    external:     true
   - name:         Projects
     url:          /projects
-pygments:         true
+highlighter:      pygments
 permalink:        pretty
 markdown: 	      kramdown
-
-collections:
-    books:
-        output: true
-    movies:
-        output: true
-    people:
-        output: true
