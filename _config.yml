@@ -13,6 +13,9 @@ links:
     url:          /about
   - name:         Projects
     url:          /projects
-highlighter:      pygments
+highlighter:      rouge
 permalink:        pretty
 markdown: 	      kramdown
+
+gems:
+  - jekyll-feed
