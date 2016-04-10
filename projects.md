@@ -3,106 +3,63 @@ layout: page
 title: Projects
 ---
 
-Here are some projects I’ve been involved with.  Some are works in progress or even still in the planning stage.  A number are collaborative efforts. 
+I like projects. I probably have a few too many of them going on. And I'll probably have a few more soon.
 
-You can also check out my [resume](http://ctogden.com/assets/resume.pdf). I've recently started a job at OpEff though, so I'm not looking for full time work at this time. Might be interested in moonlighting or contract work though.
+I need a better way to prioritize so it would be great if you'd let me know which ones you find especially appealing.
 
-AlgebraThing
-------------
+# Highlighted Projects
 
-<div class="technologies">
-    <span class="tag-label">Java EE</span>        
-    <span class="tag-label">JavaScript</span>        
-    <span class="tag-label">Angular</span>
-    <span class="tag-label">Bootstrap</span>
-</div>
-AlgebraThing is a scratchpad for algebraic equations. Students can use AlgebraThing to solve algebra problems and save their steps for review.
+## Unhackathon
 
-AlgebraThing was a CSE 308 course project that I worked on with three other students. You can check it out at [http://algebra-thing.appspot.com/](http://algebra-thing.appspot.com/), but be forewarned that the profile pages are incomplete and that the solution histories were broken by a teammate in our final push. (Another lesson learned in version control best practices, I guess.)
+I have been an Unhackathon organizer from the beginning.
 
-Senior Thesis Project - Prolog Cloud
-------------------------------------
+[Unhackathon](http://unhackathon.org/) is a series of events and related resources for developing as a programmer. We started with the goal of improving student hackathon culture by discouraging machismo, encouraging helping each other, and focusing on learning rather than competition. We were one of the first student-run hackathons to feature (and enforce) a strong code of conduct and to implement social guidelines (adapted from the Recurse Center's social rules). We made sure we served nourishing food at our events and provided rooms for napping. Mentorship from industry and academia has always been an important part of our events.
 
-<div class="technologies">
-    <span class="tag-label">Python</span>        
-    <span class="tag-label">Flask</span>  
-    <span class="tag-label">Java</span>      
-    <span class="tag-label">Interprolog</span>            
-    <span class="tag-label">Vagrant</span>            
-</div>
-My senior thesis for the Honors College at Stony Brook University was a web-based IDE for XSB Prolog. My advisor was Professor Paul Fodor.
+Now we are focusing on smaller shorter events because we believe that they are healthier, more sustainable, more accessible, and offer better learning opportunities than larger hackathons.
 
-Waltonians.org
---------------
+# Other Projects
 
-<div class="technologies">
-    <span class="tag-label">Jekyll</span>           
-</div>
-[Waltonians.org](http://waltonians.org/) is a site to celebrate community in my small hometown of Walton, NY. 
+Here's a sneak peek at one of the lists I've made outlining some other projects I am working on or thinking about. It's clearly overly ambitious, but that's okay. I believe in dreaming big. Hopefully some of these projects will move up to the featured soon, when I have more to say about them.
 
-Hackathons
-----------
-
-I’ve attended half a dozen student hackathons in the past year or so.  They’ve been great learning experiences and sometimes one even walks away with a functioning application.  In order of attendance:
-
-<ol>
-    <li>
-        <div class="technologies">
-            <span class="tag-label">JavaScript</span>        
-            <span class="tag-label">jQuery</span>        
-        </div>
-        <p>Google’s <i>24 Hours of Good</i>, Fall 2012 - This was my first hackathon. My team built a web scraping and data input tool that was inspired by the Pinterest bookmarklet intended for updating the Free Software Foundation’s software directory.  I was a bit out of my depth, but the experience sold me on the importance of hackathons as a learning opportunity.</p>
-    </li>
-    <li>
-        <div class="technologies">
-            <span class="tag-label">Python</span>        
-            <span class="tag-label">CherryPy</span>  
-            <span class="tag-label">Bootstrap</span>      
-            <span class="tag-label">App Engine</span>            
-        </div>
-        <p><i>PennApps</i>, Fall 2013 - My team built a responsive web app for location based games. I spent most of the time mucking around in Bootstrap. We got the app working well enough to use it for the Stony Brook Computing Society’s annual Geek Games event, then realized we messed up the puzzles we were going to use it with...</p>
-    </li>
-    <li><i>MHacks</i>, Fall 2013 - The internet went down campuswide for quite some time, one of our group members had to fly out and had a delayed flight, and the team member responsible for setting up our server (we should have just used App Engine) had a bunch of difficulties. Our hack (an events portal for Stony Brook) never got off the ground.</li>
-    <li>
-        <div class="technologies">
-            <span class="tag-label">Chrome Extensions</span>                    
-        </div>
-        <p><i>HackMIT</i>, Fall 2013 - We built a Chrome extension for simple visual web scraping. It only operates based on HTML classes, but we’ve found uses for it sense, including our hack for McHacks</p>
-    </li>
-    <li>
-        <div class="technologies">
-            <span class="tag-label">Python</span>        
-            <span class="tag-label">Flask</span>        
-            <span class="tag-label">App Engine</span>            
-        </div>
-        <p>Google’s <i>24 Hours of Good</i>, Spring 2014 - We built a digital variant of the party game Mafia to educate players about web security.</p>
-    </li>
-    <li>
-        <div class="technologies">
-            <span class="tag-label">Python</span>        
-            <span class="tag-label">Flask</span>        
-            <span class="tag-label">Facebook Graph API</span>        
-            <span class="tag-label">Google Prediction API</span>              
-        </div>
-        <p class="within-list"><i>McHacks</i>, Spring 2014 - We built a silly Facebook app that’s actually pretty cool under the hood. <a href="http://whats-my-fb-sin.com/">What’s my FB sin?</a> takes your latest statuses and feeds them to a machine learning model in the Google Prediction API and returns a result that tells you your worst Facebook habit. We’ve more rules, results, fixes, and other updates planned.</p>
-    </li>
-</ol>
-
-The Stony Brook Computing Society
----------------------------------
-
-I discovered the SBCS at the end of my freshman year, back when it only had about 5 members. It quickly became the community of people with like interests that I had been seeking for.  I was elected Vice President my junior year and while I stepped down from an official e-board position for my senior year, I remain active in the club and its leadership. I helped grow club membership more than tenfold, and I’ve planned numerous educational, career-building, and outreach activities.  This semester we’re bigger than ever (the incredible [Hanne Paine](https://twitter.com/HannePaine) is owed the majority of the credit for this), holding weekly general body meetings and tech nights, frequent company tours, several hackathon trips, and more.  
-
-Currently (even though I've graduated), I'm planning [Unhackathon](http://www.unhackathon.org/), a 300 person hackathon focused on learning and inclusivity.
-
-The Walhighlingo
-----------------
-
-I founded a student newspaper during my junior year of high school and was editor-in-chief for the next two years. Despite troubles overcoming student apathy, it was a blast and I'd like to be part of a similar endeavor some day, whether that be a thematic group blog or a hyperlocal newspaper.
-
-Inchoate.co
------------
-
-Inspired by a [Robert Heinlein quote](http://inchoate.co/specialization-is-for-insects/) and a [post by Seth Godin](http://sethgodin.typepad.com/seths_blog/2004/12/the_top_1000_th.html) I've dedicated my blog at http://inchoate.co/ to a list of "1,000 Things to Know".
-
-
+* **The Ocular Society** (films and fun). 
+* **Lost Weekend** (weekend adventures). 
+* **Melange** ("predictive" analytics). 
+* **Waltonians** (building the future of Walton). 
+* **Code Orange** (Code for America brigade for Walton). 
+* **Civic Analytics**(local analytics). 
+* **The Citizenry** (tools for representative government). 
+* **Public Works Co.** (open source tools for public works and government administration).
+* **Hacker Supply** (Svpply for makers). 
+* **The Ruralist** (a magazine for Upstate New York). 
+* **All Together Now** (community building consultancy and design collective). 
+* **Good Works Co.** (furniture, design, and branding)
+* **Random Hacks of Kindness** (unexpected acts for good). 
+* **Internetland** (internet community in real life). 
+* **Wayfarers** (indie travel guide brand). 
+* **World Festivals Guide** (cultural festivals around the world). 
+* **Swift Schedule** (scheduling app). 
+* **Zero Proof** (mocktail recipes iOS app). 
+* **Resourceful Society** (life skills / learning for all ages). 
+* **1,000 Things to Know** (book or blog of important skills and knowledge). 
+* **Ogdens' General Store** (general store, local goods, books, and art gallery). 
+* **Gather** (a coworking space). 
+* **Reficite** (video documentary of a small town revival). 
+* **Hot Mess** (regular potluck dinner). 
+* **Coffee Mornings** (morning meetup for local creatives and do-gooders). 
+* **MaptimeWalton** (maps and geography for all). 
+* **Homegrown** (garden, fruit trees, flowers, rabbits, aquaponics). 
+* **Handiwork** (an inclusive maker space). 
+* **Upstate Weekend** (guide to upstate weekend travel). 
+* **Junta** (food, debate, and knowledge sharing). 
+* **Suddenly** (a popup store or art gallery). 
+* **Tiny** (an independent publishing venture). 
+* **Press** (risograph printing and letterpress). 
+* **The Forge** (after school STEAM program). 
+* **The Eolian** (a community built pub).
+* **Triva Night** (trivia or puzzle solving event). 
+* **Things from Scratch** (making things, the hard way). 
+* **Smart Home** (IoT for my house). 
+* **Neighborly** (hyperlocal news site and tools). 
+* **Strive** (web development and digital marketing consulting). 
+* **OpenRecipes Search** (Punchfork clone).
+* **Summerland** (a castle, private island, or woodland retreat).
