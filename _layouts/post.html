@@ -5,10 +5,10 @@
     {% include head.html %}
   </head>
   <body>
-    {% include header.html %}
     <div id='container'>
+      {% include header.html %}
       {% include links.html %}
-      {% include pages.html %}
+      <!--{% include pages.html %}-->
       <div class="content">
         <section class='post'>
           <h1 class="upcase">
@@ -28,8 +28,8 @@
       {% if page.disqus == 'y' %}
         {% include disqus.html %}
       {% endif %}
-      {% include links.html %}
+      <!--{% include links.html %}-->
+      {% include footer.html %}
     </div>
-    {% include footer.html %}
   </body>
 </html>
